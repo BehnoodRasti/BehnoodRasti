@@ -1,12 +1,8 @@
-I am a Principal Research Associate with the Machine Learning Group, Helmholtz-Zentrum Dresden-Rossendorf (HZDR), Germany. I am an IEEE Senior Member and serve as an Associate Editor for the IEEE GEOSCIENCE AND REMOTE SENSING LETTERS (GRSL).
+I am a Principal Research Associate with the Machine Learning Group, Helmholtz-Zentrum Dresden-Rossendorf (HZDR), Germany. I am an IEEE Senior Member and serve as an Associate Editor for the IEEE GEOSCIENCE AND REMOTE SENSING LETTERS (GRSL). My research interests include machine/deep learning, signal and image processing, remote sensing, and artificial intelligence.
 
 From Jan. 2020 to Dec. 2021, I was an Alexander von Humboldt Research Fellow with the Machine Learning Group, Helmholtz-Zentrum Dresden-Rossendorf, Germany. In 2015 and 2016, I was a postdoctoral researcher with the Electrical and Computer Engineering Department, University of Iceland. From 2016 to 2019, I was a lecturer at the Center of Engineering Technology and Applied Sciences, Department of Electrical and Computer Engineering, the University of Iceland.
 
 I received the B.Sc. and M.Sc. degrees in Electrical Engineering-Electronics from the Electrical Engineering Department, University of Guilan, Rasht, Iran, in 2006 and 2009, respectively, and the Ph.D. degree in Electrical and Computer Engineering from the University of Iceland, Reykjavik, Iceland, in 2014.  
-
-
-
-
 
 
 
